@@ -2,6 +2,10 @@
 
 This repo contains an example of a statically generated blog which has been built using [GatsbyJS](https://www.gatsbyjs.org/), with the content being pulled from [LexasCMS](https://www.lexascms.com/).
 
+<p align="center">
+  <img src="preview.png" alt="Gatsby Blog Example Preview" style="max-width:90%;" />
+</p>
+
 ## Live Demo
 
 [Click here](https://lexascms-example-gatsby-blog.netlify.app/) to view a live demo of this repo.
